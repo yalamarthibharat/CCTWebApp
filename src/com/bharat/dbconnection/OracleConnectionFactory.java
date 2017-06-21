@@ -12,7 +12,7 @@ import java.sql.SQLException;
  */
 
 /**
- * Manages connections to SQLServer
+ * Manages connections to Oracle
  */
 public class OracleConnectionFactory {
 	/*
